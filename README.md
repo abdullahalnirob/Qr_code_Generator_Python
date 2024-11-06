@@ -1,1 +1,1 @@
-#Qr Code Regentor App power by Tled
+# Qr Code Regentor App power by Tled
